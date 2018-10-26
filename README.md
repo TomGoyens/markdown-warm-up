@@ -20,3 +20,7 @@ Er bestaat wel een actieve facebook account maar de naam van de account komt nie
   * duidelijker overzicht maken
   * dynamische website grootte en breedte
   * meerdere webpaginas maken ipv alles op de homepage te vermelden
+
+aanbeveling voor een toekomstige wijziging toevoegen
+
+Door Kaba Salim en Goyens Tom
