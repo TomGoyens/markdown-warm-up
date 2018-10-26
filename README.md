@@ -1,7 +1,7 @@
 # markdown-warm-up
 
 * __Welke website heeft u gevonden? (naam, url, link).__
-[007museum](www.007museum.com)
+[007museum](http://www.007museum.com)
 * __Wordt het regelmatig bijgewerkt?__
 Laatste datum van bijwerking is 26 oktober 2018.
 * __Hoe heb je het gevonden?__
